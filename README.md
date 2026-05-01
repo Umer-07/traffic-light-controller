@@ -3,6 +3,8 @@
 A SystemVerilog finite state machine (FSM) that controls a traffic light sequence with pedestrian crossing logic.
 
 ---
+## Live demo
+Open demo/index.html in any browser — no install needed.
 
 ## State machine
 
